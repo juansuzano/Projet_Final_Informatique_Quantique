@@ -1,8 +1,8 @@
 # Projet_Final_Informatique_Quantique
 
-Le code du projet a été publié sur le lien doisajdsaoidsjiodasjoisadjoisajd et comporte deux fichiers : Projet_Final.py et bisection_search.py. Le premier fichier est le code qui implémente toutes les fonctionnalités décrites dans ce rapport, à l'exception de la fonction de bisection_search implémentée dans le fichier bisection_search.py. 
+Le code du projet a été publié sur le lien https://github.com/juansuzano/Projet_Final_Informatique_Quantique et comporte deux fichiers : Projet_Final.py et bisection_search.py. Le premier fichier est le code qui implémente toutes les fonctionnalités décrites dans ce rapport, à l'exception de la fonction de bisection_search implémentée dans le fichier bisection_search.py. 
 
-Nous n'avons pas étudié la mise en œuvre de blablabla.py car nous avons pensé qu'elle dépasserait un peu le cadre de notre projet.
+Nous n'avons pas étudié la mise en œuvre de bisection_search.py car nous avons pensé qu'elle dépasserait un peu le cadre de notre projet.
 
 Pour exécuter le code, placez les deux fichiers dans le même dossier et lancez la commande "$ python Projet_final.py" en ayant installé les bibliothèques qiskit, numpy et matplotlib. 
 
